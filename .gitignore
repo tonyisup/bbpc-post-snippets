@@ -205,3 +205,34 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Podcast Processing Pipeline
+# Input and output directories
+input/
+out/
+
+# Audio and video files
+*.mp3
+*.mp4
+*.m4a
+*.wav
+*.flac
+*.aac
+*.ogg
+*.webm
+*.mkv
+*.avi
+*.mov
+
+# Subtitle files (generated)
+*.ass
+*.srt
+*.vtt
+
+# Working files
+*.json
+*.tsv
+*.rttm
+
+# Authentication tokens
+.hf_token

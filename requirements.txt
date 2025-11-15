@@ -1,0 +1,15 @@
+whisperx
+orjson
+srt
+ass
+numpy
+pandas
+regex
+pydub
+rich
+scikit-learn
+nltk
+spacy
+# GPU optional (install torch matching your CUDA separately)
+# pyannote stack (optional, if not using whisperx’s built-in diarization)
+pyannote.audio
